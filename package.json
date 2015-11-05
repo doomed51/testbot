@@ -1,0 +1,23 @@
+{
+  "name": "mine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/racbot.js",
+  "scripts": {
+    "test": "ping"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doomed51/testbot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doomed51/testbot/issues"
+  },
+  "homepage": "https://github.com/doomed51/testbot#readme",
+  "dependencies": {
+    "slackbots": "^0.4.0",
+    "sqlite3": "^3.1.1"
+  }
+}
